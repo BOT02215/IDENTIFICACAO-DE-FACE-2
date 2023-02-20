@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(rgb(255, 255, 255) 0%, rgb(8, 230, 171) 50%, rgb(29, 193, 160) 100%)
+  }
+  
+  hr {
+    border-color: black;
+  }
